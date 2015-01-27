@@ -1,0 +1,23 @@
+.multistate-toggle span {
+    display: block;
+    margin-top: 5px;
+    float: left;
+}
+.multistate-toggle .status-icon {
+    content: '&#9824;';
+    display: block;
+    float: left;
+    margin-top: 10px;
+    margin-left: 8px;
+    font-size: 0.7em;
+}
+.multistate-toggle .status-icon.disabled {
+    content: '&#9898;';
+    color: #666;
+}
+.multistate-toggle .status-icon.included {
+    color: #26bf58;
+}
+.multistate-toggle .status-icon.excluded {
+    color: #d02929;
+}

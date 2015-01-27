@@ -1,0 +1,24 @@
+{
+  "name": "angular-multistate-toggle",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ulan-m/angular-multistate-toggle",
+  "authors": [
+    "Ulan Murzatayev <murzatayev@gmail.com>"
+  ],
+  "description": "a small angular multistate toggle button directive",
+  "main": "src/multistate-toggle.js",
+  "keywords": [
+    "angular",
+    "directive",
+    "multistate",
+    "toggle"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
