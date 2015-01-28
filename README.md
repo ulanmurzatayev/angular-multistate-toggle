@@ -12,10 +12,11 @@ bower install angular-multistate-toggle
 angular.module('myModule', 'angular-multistate-toggle')
 ```
 
-
 ###Usage:
 ```html
 <button multistate-toggle="['disabled', 'included', 'excluded']" ng-model="finished">
     <span>Finished</span> <i class="status-icon"></i>
 </button>
 ```
+###Examples:
+Please see examples here: http://ulan-m.github.io
